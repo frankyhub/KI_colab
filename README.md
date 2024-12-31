@@ -1,4 +1,7 @@
 ## colab-yolo
 
 
-[Link](YOLOv5_Tutorial.ipynb)
+[Link Yolo5 Tutorial](YOLOv5_Tutorial.ipynb)
+
+[Link colab yolov5 Training](colab-yolov5-training.ipynb)
+
